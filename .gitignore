@@ -1,0 +1,7 @@
+.idea/
+**/__pycache__/
+logs/
+cnn_stories_tokenized/
+dm_stories_tokenized/
+dataset/
+venv/
